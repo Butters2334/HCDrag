@@ -14,8 +14,9 @@ self.dView.progressRateColor  = @[[UIColor blueColor],[UIColor greenColor],[UICo
 [self.dView resetProgressRateNumber];
 ```
 
-![screen0.png](https://github.com/anmac/HCDrag/blob/master/SimulatorScreenShot/screen0.png =375x166)
-![screen0.png](https://github.com/anmac/HCDrag/blob/master/SimulatorScreenShot/screen1.png =375x166)
-![screen0.png](https://github.com/anmac/HCDrag/blob/master/SimulatorScreenShot/screen2.png =375x166)
-![screen0.png](https://github.com/anmac/HCDrag/blob/master/SimulatorScreenShot/screen3.png =375x166)
+![screen0.png](https://github.com/anmac/HCDrag/blob/master/SimulatorScreenShot/screen0.png=375x166)
+![screen0.png](https://github.com/anmac/HCDrag/blob/master/SimulatorScreenShot/screen1.png=375x166)
+![screen0.png](https://github.com/anmac/HCDrag/blob/master/SimulatorScreenShot/screen2.png=375x166)
+![screen0.png](https://github.com/anmac/HCDrag/blob/master/SimulatorScreenShot/screen3.png=375x166)
+
 
