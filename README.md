@@ -19,3 +19,4 @@ self.dView.progressRateColor  = @[[UIColor blueColor],[UIColor greenColor],[UICo
 ![screen0.png](https://github.com/anmac/HCDrag/blob/master/SimulatorScreenShot/screen2.png)
 ![screen0.png](https://github.com/anmac/HCDrag/blob/master/SimulatorScreenShot/screen3.png)
 
+
